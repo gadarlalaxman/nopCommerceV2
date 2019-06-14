@@ -1,0 +1,2 @@
+D:\selenium work\nopCommerceV2
+mvn clean install

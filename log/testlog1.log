@@ -1,0 +1,182 @@
+2019-06-11 19:59:46,478 [main] INFO nopEcommerce - url is opened
+2019-06-11 19:59:46,897 [main] INFO nopEcommerce - user is provided
+2019-06-11 19:59:47,159 [main] INFO nopEcommerce - pwd is provided
+2019-06-11 19:59:57,137 [main] INFO nopEcommerce - login is passed
+2019-06-11 21:15:29,467 [main] INFO nopEcommerce - url is opened
+2019-06-11 21:15:29,742 [main] INFO nopEcommerce - user is provided
+2019-06-11 21:15:29,851 [main] INFO nopEcommerce - pwd is provided
+2019-06-11 21:15:37,602 [main] INFO nopEcommerce - login is passed
+2019-06-11 21:37:27,390 [main] INFO nopEcommerce - url is opened
+2019-06-11 21:37:27,605 [main] INFO nopEcommerce - user is provided
+2019-06-11 21:37:27,704 [main] INFO nopEcommerce - pwd is provided
+2019-06-11 21:37:36,135 [main] INFO nopEcommerce - login is passed
+2019-06-11 21:37:39,037 [main] INFO nopEcommerce - url is opened
+2019-06-11 21:37:49,346 [main] INFO nopEcommerce - url is opened
+2019-06-11 21:37:49,448 [main] INFO nopEcommerce - user is provided
+2019-06-11 21:37:49,526 [main] INFO nopEcommerce - pwd is provided
+2019-06-11 21:37:57,898 [main] INFO nopEcommerce - login is passed
+2019-06-11 21:41:46,713 [main] INFO nopEcommerce - url is opened
+2019-06-11 21:41:46,959 [main] INFO nopEcommerce - user is provided
+2019-06-11 21:41:47,068 [main] INFO nopEcommerce - pwd is provided
+2019-06-11 21:41:57,000 [main] INFO nopEcommerce - login is passed
+2019-06-11 21:42:04,425 [main] INFO nopEcommerce - url is opened
+2019-06-11 21:42:04,516 [main] INFO nopEcommerce - user is provided
+2019-06-11 21:42:04,610 [main] INFO nopEcommerce - pwd is provided
+2019-06-11 21:42:12,528 [main] INFO nopEcommerce - login is passed
+2019-06-11 21:42:15,743 [main] INFO nopEcommerce - url is opened
+2019-06-12 16:07:51,720 [main] INFO nopEcommerce - url is opened
+2019-06-12 16:07:51,954 [main] INFO nopEcommerce - user is provided
+2019-06-12 16:07:52,058 [main] INFO nopEcommerce - pwd is provided
+2019-06-12 16:08:01,230 [main] INFO nopEcommerce - login is passed
+2019-06-12 16:08:09,037 [main] INFO nopEcommerce - url is opened
+2019-06-12 16:08:09,121 [main] INFO nopEcommerce - user is provided
+2019-06-12 16:08:09,183 [main] INFO nopEcommerce - pwd is provided
+2019-06-12 16:08:17,455 [main] INFO nopEcommerce - login is passed
+2019-06-12 16:08:20,747 [main] INFO nopEcommerce - url is opened
+2019-06-12 16:24:27,687 [main] INFO nopEcommerce - url is opened
+2019-06-12 16:24:27,977 [main] INFO nopEcommerce - user is provided
+2019-06-12 16:24:28,097 [main] INFO nopEcommerce - pwd is provided
+2019-06-12 16:24:36,801 [main] INFO nopEcommerce - login is passed
+2019-06-12 16:24:44,214 [main] INFO nopEcommerce - url is opened
+2019-06-12 16:24:44,296 [main] INFO nopEcommerce - user is provided
+2019-06-12 16:24:44,364 [main] INFO nopEcommerce - pwd is provided
+2019-06-12 16:24:52,778 [main] INFO nopEcommerce - login is passed
+2019-06-12 16:24:55,909 [main] INFO nopEcommerce - url is opened
+2019-06-12 16:26:26,117 [main] INFO nopEcommerce - url is opened
+2019-06-12 16:26:27,415 [main] INFO nopEcommerce - user is provided
+2019-06-12 16:26:27,539 [main] INFO nopEcommerce - pwd is provided
+2019-06-12 16:26:35,836 [main] INFO nopEcommerce - login is passed
+2019-06-12 16:26:43,497 [main] INFO nopEcommerce - url is opened
+2019-06-12 16:26:44,572 [main] INFO nopEcommerce - user is provided
+2019-06-12 16:26:44,627 [main] INFO nopEcommerce - pwd is provided
+2019-06-12 16:26:52,519 [main] INFO nopEcommerce - login is passed
+2019-06-12 16:26:56,215 [main] INFO nopEcommerce - url is opened
+2019-06-12 18:42:15,583 [main] INFO nopEcommerce - url is opened
+2019-06-12 18:42:16,856 [main] INFO nopEcommerce - user is provided
+2019-06-12 18:42:16,979 [main] INFO nopEcommerce - pwd is provided
+2019-06-12 18:42:26,125 [main] INFO nopEcommerce - login is passed
+2019-06-12 19:54:18,746 [main] INFO nopEcommerce - url is opened
+2019-06-12 19:54:19,992 [main] INFO nopEcommerce - user is provided
+2019-06-12 19:54:20,108 [main] INFO nopEcommerce - pwd is provided
+2019-06-12 19:54:35,937 [main] INFO nopEcommerce - User provided
+2019-06-12 19:54:36,044 [main] INFO nopEcommerce - Password provided
+2019-06-12 19:54:40,099 [main] INFO nopEcommerce - Login in Clicked
+2019-06-12 19:54:44,939 [main] INFO nopEcommerce - User provided
+2019-06-12 19:54:45,036 [main] INFO nopEcommerce - Password provided
+2019-06-12 19:54:45,633 [main] INFO nopEcommerce - Login in Clicked
+2019-06-12 19:54:47,647 [main] INFO nopEcommerce - Login Failed
+2019-06-12 19:54:49,054 [main] INFO nopEcommerce - User provided
+2019-06-12 19:54:49,135 [main] INFO nopEcommerce - Password provided
+2019-06-12 19:54:49,638 [main] INFO nopEcommerce - Login in Clicked
+2019-06-12 19:54:51,650 [main] INFO nopEcommerce - Login Failed
+2019-06-12 19:54:52,850 [main] INFO nopEcommerce - User provided
+2019-06-12 19:54:52,933 [main] INFO nopEcommerce - Password provided
+2019-06-12 19:54:53,418 [main] INFO nopEcommerce - Login in Clicked
+2019-06-12 19:54:55,431 [main] INFO nopEcommerce - Login Failed
+2019-06-12 21:01:11,743 [main] INFO nopEcommerce - url is opened
+2019-06-12 21:01:12,993 [main] INFO nopEcommerce - user is provided
+2019-06-12 21:01:13,097 [main] INFO nopEcommerce - pwd is provided
+2019-06-12 21:01:28,465 [main] INFO nopEcommerce - User provided
+2019-06-12 21:01:28,571 [main] INFO nopEcommerce - Password provided
+2019-06-12 21:01:31,864 [main] INFO nopEcommerce - Login in Clicked
+2019-06-12 21:01:36,809 [main] INFO nopEcommerce - User provided
+2019-06-12 21:01:36,899 [main] INFO nopEcommerce - Password provided
+2019-06-12 21:01:37,435 [main] INFO nopEcommerce - Login in Clicked
+2019-06-12 21:01:39,449 [main] INFO nopEcommerce - Login Failed
+2019-06-12 21:01:40,917 [main] INFO nopEcommerce - User provided
+2019-06-12 21:01:41,003 [main] INFO nopEcommerce - Password provided
+2019-06-12 21:01:41,840 [main] INFO nopEcommerce - Login in Clicked
+2019-06-12 21:01:43,853 [main] INFO nopEcommerce - Login Failed
+2019-06-12 21:01:45,186 [main] INFO nopEcommerce - User provided
+2019-06-12 21:01:45,285 [main] INFO nopEcommerce - Password provided
+2019-06-12 21:01:45,821 [main] INFO nopEcommerce - Login in Clicked
+2019-06-12 21:01:47,834 [main] INFO nopEcommerce - Login Failed
+2019-06-12 21:01:54,688 [main] INFO nopEcommerce - User name is provided
+2019-06-12 21:01:54,800 [main] INFO nopEcommerce - password is provided
+2019-06-12 21:01:58,753 [main] INFO nopEcommerce - providing customer details....
+2019-06-12 21:02:09,042 [main] INFO nopEcommerce - validation started....
+2019-06-12 21:02:09,397 [main] INFO nopEcommerce - test case passed....
+2019-06-12 21:06:56,209 [main] INFO nopEcommerce - url is opened
+2019-06-12 21:06:57,445 [main] INFO nopEcommerce - user is provided
+2019-06-12 21:06:57,564 [main] INFO nopEcommerce - pwd is provided
+2019-06-12 21:07:06,214 [main] INFO nopEcommerce - login is passed
+2019-06-12 21:07:14,344 [main] INFO nopEcommerce - User provided
+2019-06-12 21:07:14,461 [main] INFO nopEcommerce - Password provided
+2019-06-12 21:07:18,280 [main] INFO nopEcommerce - Login in Clicked
+2019-06-12 21:07:23,257 [main] INFO nopEcommerce - User provided
+2019-06-12 21:07:23,343 [main] INFO nopEcommerce - Password provided
+2019-06-12 21:07:23,990 [main] INFO nopEcommerce - Login in Clicked
+2019-06-12 21:07:26,005 [main] INFO nopEcommerce - Login Failed
+2019-06-12 21:07:27,395 [main] INFO nopEcommerce - User provided
+2019-06-12 21:07:27,476 [main] INFO nopEcommerce - Password provided
+2019-06-12 21:07:27,962 [main] INFO nopEcommerce - Login in Clicked
+2019-06-12 21:07:29,977 [main] INFO nopEcommerce - Login Failed
+2019-06-12 21:07:31,138 [main] INFO nopEcommerce - User provided
+2019-06-12 21:07:31,220 [main] INFO nopEcommerce - Password provided
+2019-06-12 21:07:31,734 [main] INFO nopEcommerce - Login in Clicked
+2019-06-12 21:07:33,747 [main] INFO nopEcommerce - Login Failed
+2019-06-12 21:07:40,509 [main] INFO nopEcommerce - User name is provided
+2019-06-12 21:07:40,606 [main] INFO nopEcommerce - password is provided
+2019-06-12 21:07:44,593 [main] INFO nopEcommerce - providing customer details....
+2019-06-12 21:07:54,306 [main] INFO nopEcommerce - validation started....
+2019-06-12 21:07:54,677 [main] INFO nopEcommerce - test case passed....
+2019-06-13 16:53:36,854 [main] INFO nopEcommerce - url is opened
+2019-06-13 16:53:38,139 [main] INFO nopEcommerce - user is provided
+2019-06-13 16:53:38,253 [main] INFO nopEcommerce - pwd is provided
+2019-06-13 16:53:48,111 [main] INFO nopEcommerce - login is passed
+2019-06-13 16:53:56,767 [main] INFO nopEcommerce - User provided
+2019-06-13 16:53:56,926 [main] INFO nopEcommerce - Password provided
+2019-06-13 16:54:01,662 [main] INFO nopEcommerce - Login in Clicked
+2019-06-13 16:54:07,138 [main] INFO nopEcommerce - User provided
+2019-06-13 16:54:07,259 [main] INFO nopEcommerce - Password provided
+2019-06-13 16:54:08,205 [main] INFO nopEcommerce - Login in Clicked
+2019-06-13 16:54:10,215 [main] INFO nopEcommerce - Login Failed
+2019-06-13 16:54:11,679 [main] INFO nopEcommerce - User provided
+2019-06-13 16:54:11,793 [main] INFO nopEcommerce - Password provided
+2019-06-13 16:54:12,337 [main] INFO nopEcommerce - Login in Clicked
+2019-06-13 16:54:14,351 [main] INFO nopEcommerce - Login Failed
+2019-06-13 16:54:15,634 [main] INFO nopEcommerce - User provided
+2019-06-13 16:54:15,739 [main] INFO nopEcommerce - Password provided
+2019-06-13 16:54:16,290 [main] INFO nopEcommerce - Login in Clicked
+2019-06-13 16:54:18,302 [main] INFO nopEcommerce - Login Failed
+2019-06-13 16:54:25,141 [main] INFO nopEcommerce - User name is provided
+2019-06-13 16:54:25,253 [main] INFO nopEcommerce - password is provided
+2019-06-13 16:54:29,310 [main] INFO nopEcommerce - providing customer details....
+2019-06-13 16:54:41,145 [main] INFO nopEcommerce - validation started....
+2019-06-13 16:54:41,643 [main] INFO nopEcommerce - test case passed....
+2019-06-13 16:56:56,010 [main] INFO nopEcommerce - url is opened
+2019-06-13 16:56:57,276 [main] INFO nopEcommerce - user is provided
+2019-06-13 16:56:57,407 [main] INFO nopEcommerce - pwd is provided
+2019-06-13 16:57:06,825 [main] INFO nopEcommerce - login is passed
+2019-06-13 16:57:14,176 [main] INFO nopEcommerce - User name is provided
+2019-06-13 16:57:14,286 [main] INFO nopEcommerce - password is provided
+2019-06-13 16:57:17,566 [main] INFO nopEcommerce - providing customer details....
+2019-06-13 16:57:33,252 [main] INFO nopEcommerce - validation started....
+2019-06-13 16:57:33,741 [main] INFO nopEcommerce - test case passed....
+2019-06-13 17:05:53,968 [main] INFO nopEcommerce - url is opened
+2019-06-13 17:05:55,251 [main] INFO nopEcommerce - user is provided
+2019-06-13 17:05:55,393 [main] INFO nopEcommerce - pwd is provided
+2019-06-13 17:06:04,750 [main] INFO nopEcommerce - login is passed
+2019-06-13 17:06:11,928 [main] INFO nopEcommerce - User name is provided
+2019-06-13 17:06:12,083 [main] INFO nopEcommerce - password is provided
+2019-06-13 17:06:15,485 [main] INFO nopEcommerce - providing customer details....
+2019-06-13 17:06:23,992 [main] INFO nopEcommerce - validation started....
+2019-06-13 17:06:24,521 [main] INFO nopEcommerce - test case passed....
+2019-06-14 17:19:50,039 [main] INFO nopEcommerce - url is opened
+2019-06-14 17:19:51,298 [main] INFO nopEcommerce - user is provided
+2019-06-14 17:19:51,413 [main] INFO nopEcommerce - pwd is provided
+2019-06-14 17:19:59,925 [main] INFO nopEcommerce - login is passed
+2019-06-14 17:20:06,892 [main] INFO nopEcommerce - User name is provided
+2019-06-14 17:20:07,014 [main] INFO nopEcommerce - password is provided
+2019-06-14 17:20:10,898 [main] INFO nopEcommerce - providing customer details....
+2019-06-14 17:20:25,120 [main] INFO nopEcommerce - validation started....
+2019-06-14 17:20:25,555 [main] INFO nopEcommerce - test case passed....
+2019-06-14 17:33:05,131 [main] INFO nopEcommerce - url is opened
+2019-06-14 17:33:06,401 [main] INFO nopEcommerce - user is provided
+2019-06-14 17:33:06,520 [main] INFO nopEcommerce - pwd is provided
+2019-06-14 17:33:15,203 [main] INFO nopEcommerce - login is passed
+2019-06-14 17:33:21,837 [main] INFO nopEcommerce - User name is provided
+2019-06-14 17:33:21,946 [main] INFO nopEcommerce - password is provided
+2019-06-14 17:34:15,634 [main] INFO nopEcommerce - providing customer details....
+2019-06-14 17:34:22,854 [main] INFO nopEcommerce - validation started....
+2019-06-14 17:34:23,431 [main] INFO nopEcommerce - test case passed....
